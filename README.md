@@ -304,5 +304,3 @@ IT Number: IT21315114
 Module: IT4100 – Software Quality Assurance  
 SLIIT – BSc (Hons) in Information Technology, Year 4, 2026  
 
-Group Role: Automation Specialist (Cypress)  
-Other group tools: Playwright (Dassa), Selenium (Akash), [Tool] (Member 4)
